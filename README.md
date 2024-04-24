@@ -1,1 +1,1 @@
-This folder contains my python solutions to a few [SPOJ](https://www.spoj.com) problems.
+This folder contains my python solutions to a few [SPOJ](https://www.spoj.com) problems. The accepted solutions are in the "accepted" folder. The python files in the outer folders either have wrong answers, or most likely have brute force solutions which exceed the time limit. <br> The name of each file corresponds to the problem ID on SPOJ. For example: [BISHOPS.py](/accepted/BISHOPS.py) corresponds to [spoj.com/problems/BISHOPS](https://www.spoj.com/problems/BISHOPS/).
